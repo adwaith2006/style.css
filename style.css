@@ -1,0 +1,21 @@
+*{
+  border:solid  
+}
+.header{
+    background-color:yellow;
+    display:flex;
+    justify-content:center;
+}
+.Description{
+    background-color: chocolate;
+}
+.Game{
+    background-color: crimson;
+    display:flex;
+    justify-content:flex-end;
+}
+.Social{
+    background-color: darkolivegreen;
+    display:flex;
+    justify-content:flex-end;
+}
